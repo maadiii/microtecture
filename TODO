@@ -1,0 +1,8 @@
+Write doc for every public struct, method and ...
+Write config for grpc
+Write grpc conroller infrastructure
+Write config for nats
+Write nats handler
+Write calling other services
+Write testutils for sql database
+Write testutils for couchase database
